@@ -10,8 +10,8 @@ Golf Revisited
 如果对研究工作有任何帮助，欢迎引用：
 
 ```
-[1] Jiao L , Bie R , Wu H , et al. Golf swing classification with multiple deep convolutional neural networks[J]. International Journal of Distributed Sensor Networks, 2018, 14(10).
-[2] Wu H , Bie R , Jiao L , et al. Towards Real-Time Multi-Sensor Golf Swing Classification Using Deep CNNs[J]. Journal of database management, 2018, 29(3):17-42.
+[1] Jiao L, Bie R, Wu H, et al. Golf swing classification with multiple deep convolutional neural networks[J]. International Journal of Distributed Sensor Networks, 2018, 14(10).
+[2] Jiao L, Wu H, Bie R, et al. Towards Real-Time Multi-Sensor Golf Swing Classification Using Deep CNNs[J]. Journal of database management, 2018, 29(3):17-42.
 ```
 
 `dataset/`
@@ -33,6 +33,7 @@ Golf Revisited
 `GolfResNetFeats.py`：CNN 特征提取部分
 
 `ppt/`
+------
 
 2021 年 6 月 22 日汇报 ppt
 
